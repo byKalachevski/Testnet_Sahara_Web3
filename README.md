@@ -11,14 +11,7 @@ Automation script for interacting with the [Sahara Testnet](https://legends.saha
 
 ## 📂 Project Structure
 
-.
-├── Testnet_Sahara.js # Main automation script
-├── core/
-│ ├── helpers/
-│ │ └── walletHelper.js # Rabby connection and confirmation
-│ └── telegramLogger.js # Sends logs to Telegram
-├── config/
-│ └── profiles.json # Profiles list with WebSocket, addresses, proxy auth
+<pre> ``` . ├── Testnet_Sahara.js # Main automation script ├── core/ │ ├── helpers/ │ │ └── walletHelper.js # Rabby connection and confirmation │ └── telegramLogger.js # Sends logs to Telegram ├── config/ │ └── profiles.json # Profiles list with WebSocket, addresses, proxy auth ``` </pre>
 
 ## ⚙️ How to Run
 
